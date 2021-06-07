@@ -1,0 +1,88 @@
+
+.maincard{
+    
+
+/* Grey shades/White_2 */
+
+background: #F6F6F6;
+border-radius: 11px;
+}
+
+.username
+{
+    
+    padding-right: 70%;
+    padding-left: 0%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-transform: capitalize;
+    
+    /* Grey shades/Hover grey */
+    
+    color: #515151;
+    
+}
+
+.batch
+{
+   padding: top;
+   padding-right: 50%;
+   font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 19px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+/* Grey shades/Black_2 */
+
+color: #2E2E2E;
+}
+
+.totalstudents
+{
+    padding-right: 60%;
+    padding-left: 0%;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-transform: capitalize;
+
+/* Grey shades/Hover grey */
+
+color: #515151;
+    
+}
+.update{
+    padding-right: 60%;
+    padding-left: 7%;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+/* B1 */
+
+color: #2E2E2E;
+
+}
+.button
+{
+    padding-left: 30%;
+    padding-right: 20%;
+    padding-top: 0%;
+    padding-bottom: 20%;
+
+}
